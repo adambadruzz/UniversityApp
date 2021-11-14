@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Top Indonesia University</string>
+    <string name="nama_universitas">Nama Universitas</string>
+    <string name="web_universitas">Website Universitas</string>
+    <string name="kontak_uinversitas">Kontak Universitas</string>
+    <string name="dayatampung_uinversitas">Daya Tampung Universitas</string>
+    <string name="alamat_univesitas">Alamat Universitas</string>
+    <string name="detail_univesitas">Detail Universitas</string>
+    <string name="isi_kontak">-</string>
+    <string name="isi_website">-</string>
+    <string name="isi_email">-</string>
+    <string name="isi_ig">-</string>
+    <string name="isi_alamat">-</string>
+    <string name="profile">profile</string>
+    <string name="dial">Dial Number</string>
+</resources>
